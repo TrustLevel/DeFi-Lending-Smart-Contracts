@@ -57,7 +57,7 @@ This library provides a complete set of **smart contracts** and **off-chain infr
 | **[📖 Smart Contracts Documentation](docs/SMART_CONTRACTS_DOCUMENTATION.md)** | Detailed technical documentation of all 6 smart contracts |
 | **[🔧 Library Usage Guide](docs/LIBRARY_USAGE_GUIDE.md)** | Complete guide for using and customizing the library |
 | **[⚙️ Off-chain Components](docs/OFF-CHAIN_COMPONENTS.md)** | Comprehensive off-chain infrastructure documentation |
-| **[⚙️ Live Demonstration](docs/RUN_DEMO.md)** | Detailed demonstration of all smart contracts, incl. video recodring and on-chain transactions |
+| **[⚙️ Live Demonstration](docs/RUN_DEMO.md)** | Detailed demonstration of all smart contracts, incl. on-chain transactions |
 ---
 
 ## 🔧 **The Six Core Contracts**
