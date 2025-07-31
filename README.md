@@ -1,6 +1,6 @@
 # DeFi Lending Smart Contracts Library
 
-> **A comprehensive template library for building institutional-grade DeFi lending protocols on Cardano**
+**A comprehensive template library for building institutional-grade DeFi lending protocols on Cardano**
 
 [![Aiken](https://img.shields.io/badge/Aiken-Smart%20Contracts-blue)](https://aiken-lang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Off--chain-blue)](https://www.typescriptlang.org/)
@@ -18,7 +18,7 @@ This library provides a complete set of **smart contracts** and **off-chain infr
 ✅ **6 Core Smart Contracts** - Complete lending protocol primitives  
 ✅ **40+ CLI Operations** - Full protocol management toolkit  
 ✅ **TypeScript Integration** - Type-safe off-chain infrastructure  
-✅ **DEX Support** - Automated liquidation via Minswap 
+✅ **DEX Support** - Automated liquidation via Minswap  
 ✅ **Oracle System** - Price feeds with staleness protection  
 ✅ **Security-First Design** - Tested patterns and comprehensive validation  
 ✅ **Template Architecture** - Modular, extensible, and customizable  

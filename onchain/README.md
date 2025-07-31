@@ -7,10 +7,6 @@
     5. Protocol Audit Logic
     6. Liquidation Logic
 
-Written in [Aiken](https://aiken-lang.org/) and developed for [TrustLevel](https://www.trustlevel.io/)
-
-**NOTE**: Details on the onchain components design can be found [here](https://lending-aiken-docs.staking.rocks).
-
 ## Building
 
 ```sh
